@@ -1,6 +1,6 @@
 [buildPlans.IosevkaCloudtide]
 family = "Iosevka Cloudtide"
-spacing = "normal"
+spacing = "term"
 serifs = "sans"
 noCvSs = true
 exportGlyphNames = false
